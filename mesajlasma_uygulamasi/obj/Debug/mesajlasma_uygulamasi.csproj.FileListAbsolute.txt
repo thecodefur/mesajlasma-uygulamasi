@@ -1,0 +1,7 @@
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\bin\mesajlasma_uygulamasi.dll.config
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\bin\mesajlasma_uygulamasi.dll
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\bin\mesajlasma_uygulamasi.pdb
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\obj\Debug\mesajlasma_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\obj\Debug\mesajlasma_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\obj\Debug\mesajlasma_uygulamasi.dll
+C:\Users\furka\Desktop\gp 2\mesajlasma_uygulamasi\mesajlasma_uygulamasi\obj\Debug\mesajlasma_uygulamasi.pdb
